@@ -107,3 +107,19 @@ Screenshots from Postman execution:
 | API_012 Delete User Account | Screenshot available |
 | API_013 Update User Account | Screenshot available |
 | API_014 Get User Details | Screenshot available |
+
+## Jira Test Management Evidence
+
+Jira was used to manage testing activities, track defects, and document API testing tasks.
+
+Evidence includes:
+
+- Jira project workflow board
+- API testing task management
+- Bug reporting with severity and priority
+- Test execution tracking
+
+Tools:
+- Jira
+- Postman
+- GitHub
