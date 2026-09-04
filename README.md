@@ -87,3 +87,23 @@ Example:
 pm.test("Status code should be 200", function () {
     pm.response.to.have.status(200);
 });
+## Test Execution Evidence
+
+Screenshots from Postman execution:
+
+| API | Evidence |
+|---|---|
+| API_001 Get All Products List | Screenshot available |
+| API_002 POST All Products List | Screenshot available |
+| API_003 Get All Brands List | Screenshot available |
+| API_004 PUT All Brands List | Screenshot available |
+| API_005 Search Product | Screenshot available |
+| API_006 Search Product Without Parameter | Screenshot available |
+| API_007 Login With Valid Details | Screenshot available |
+| API_008 Login Without Email Parameter | Screenshot available |
+| API_009 DELETE Verify Login | Screenshot available |
+| API_010 Login With Invalid Details | Screenshot available |
+| API_011 Create User Account | Screenshot available |
+| API_012 Delete User Account | Screenshot available |
+| API_013 Update User Account | Screenshot available |
+| API_014 Get User Details | Screenshot available |
